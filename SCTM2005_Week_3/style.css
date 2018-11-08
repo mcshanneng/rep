@@ -1,0 +1,10 @@
+body{
+  background-color: powderblue;
+  color: blue;
+}
+
+table, th, td{
+  border: 1px solid black;
+  background-color: white;
+
+}
